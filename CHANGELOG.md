@@ -8,6 +8,7 @@
 
 ### Bugfixes
 
+- [#772](https://github.com/influxdata/kapacitor/issues/772): Delete task snapshot data when a task is deleted.
 
 ## v1.0.0-beta4 [2016-07-27]
 
